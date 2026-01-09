@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-go install github.com/rei0721/genghtree/cmd/ghtree@latest
+go install github.com/rei0721/genghtree/cmd/genghtree@latest
 ```
 
 或直接编译：
